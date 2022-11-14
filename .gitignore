@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+__pycache__
+.cache
+.DS_Store
+credentials.py
